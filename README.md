@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anthony Kakue</h1>
-<h3 align="center">A passionate developer from New Caledonia</h3>
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🚀 Passionné par l'excellence opérationnelle, je transforme les besoins métier en livrables livrés, dans les délais estimés lors du dernier re-estimating.
+💡 Convaincu que chaque commit est un acte de personal branding, je nomme mes branches avec soin et rédige mes messages de commit comme des lettres de motivation.
+🔄 Agiliste dans l'âme — je vis le sprint, je respire le standup, je suis le changement tout en gérant le changement du changement.
+🏗️ Architecte de solutions orientées synergies transversales, je délivre des déliverables qui délivrent de la valeur, de bout en bout, du cadrage au hotfix.
+📊 Fervent défenseur de la dette technique maîtrisée : je la documente, je la priorise, je la backlogise, et je la re-priorise au prochain PI Planning.
+🤝 Collaborateur transverse et facilitateur d'alignement, je transforme chaque code review en opportunité de co-construction et chaque réunion en vecteur d'adhésion.
+🌱 En veille technologique permanente sur les paradigmes émergents, les frameworks disruptifs, et les bonnes pratiques de demain appliquées après-demain.
+⭐ "Mon GitHub, c'est mon âme mise à nu en diff coloré."
