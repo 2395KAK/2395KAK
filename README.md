@@ -1,4 +1,4 @@
-# 👨‍💼 Jean-Michel Commit — Architecte de Solutions à Valeur Ajoutée
+# 👨‍💼 Anthony Kakue — Architecte de Solutions à Valeur Ajoutée
 
 🚀 **Passionné par l'excellence opérationnelle**, je transforme les besoins métier en livrables livrés, dans les délais estimés lors du dernier re-estimating.
 
